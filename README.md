@@ -13,4 +13,4 @@ Laser Marking System is an industrial automation application developed using C# 
 <br>
 - SQL Server
 <br>
-Author - Avinash Wagh. (Devoloper)
+Author - Avinash Wagh. (Developer)
